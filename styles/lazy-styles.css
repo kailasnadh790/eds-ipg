@@ -1,1 +1,8 @@
 /* add global styles that can be loaded post LCP here */
+
+section h2{
+    color: rgb(54, 54, 54);
+    font-family: "EB Garamond", Open Sans;
+    font-size: 30px;
+    font-weight: 700;
+}
